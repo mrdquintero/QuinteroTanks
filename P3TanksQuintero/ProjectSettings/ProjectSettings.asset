@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Tanks
+  productName: P3TanksQuintero
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -66,6 +66,9 @@ PlayerSettings:
   useOSAutorotation: 1
   use32BitDisplayBuffer: 1
   preserveFramebufferAlpha: 0
+  adjustIOSFPSUsingThermalState: 1
+  thermalStateSeriousIOSFPS: 30
+  thermalStateCriticalIOSFPS: 15
   disableDepthAndStencilBuffers: 0
   androidStartInFullscreen: 1
   androidRenderOutsideSafeArea: 1
@@ -877,14 +880,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Tanks
+  metroPackageName: P3TanksQuintero
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Tanks
+  metroApplicationDescription: P3TanksQuintero
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -955,7 +958,7 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 368b63da-e34c-47ac-b63c-a49e60797628
+  cloudProjectId: 82b73598-3435-4ee9-bc8d-a4e7ce9d150a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: QA-Pack-1 2026-01-14_20-55-28
